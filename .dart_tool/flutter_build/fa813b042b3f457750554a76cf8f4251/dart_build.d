@@ -1,0 +1,1 @@
+ C:\\Users\\rique\\Documents\\GitHub\\MyRepositories\\my_awesome_namer_flutter\\.dart_tool\\flutter_build\\fa813b042b3f457750554a76cf8f4251\\dart_build_result.json: 
